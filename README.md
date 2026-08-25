@@ -1,0 +1,1 @@
+# charging_case_mfg_fw
